@@ -118,7 +118,7 @@ Downstream effects: crime and recidivism
 
 "[Weighing Imprisonment and Crime: 9 Experts Explore the Relationship Between Prisons and Crime Rates](https://www.pewtrusts.org/en/research-and-analysis/articles/2014/09/weighing-imprisonment-and-crime)." February 10, 2015. The Pew Charitable Trusts.
 
-Roodman, David. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Impacts of Incarceration on Crime." (PDF - 4MB)](https://www.openphilanthropy.org/files/Focus_Areas/Criminal_Justice_Reform/The_impacts_of_incarceration_on_crime_10.pdf) September 2017. Open Philantrophy Project. 
+Roodman, David. ["The Impacts of Incarceration on Crime." (PDF - 4MB)](https://www.openphilanthropy.org/files/Focus_Areas/Criminal_Justice_Reform/The_impacts_of_incarceration_on_crime_10.pdf) September 2017. Open Philantrophy Project. 
 
 
 {{< tdclose >}}
@@ -398,7 +398,7 @@ Sered, Danielle. "Introduction." In _Until We Reckon: Violence, Mass Incarcerati
 
 Slater, Dashka. "[North Dakota's Norway Experiment](https://www.motherjones.com/crime-justice/2017/07/north-dakota-norway-prisons-experiment/)." _Mother Jones Daily_, July/August 2017.
 
-Doleac, Jennifer L. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Encouraging Desistance from Crime." (PDF)](http://jenniferdoleac.com/wp-content/uploads/2019/02/Doleac_Desistance_Feb2019.pdf) (Working Paper). February 16, 2019.
+Doleac, Jennifer L. ["Encouraging Desistance from Crime." (PDF)](http://jenniferdoleac.com/wp-content/uploads/2019/02/Doleac_Desistance_Feb2019.pdf) (Working Paper). February 16, 2019.
 
 
 {{< tdclose >}}
