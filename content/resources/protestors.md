@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 6b62ced3-0ad4-889c-b90c-3da00db74a88
 resourcetype: Image
 title: protestors.jpg
 uid: f847c85a-48fc-e28c-b1d7-a986dc7feec3

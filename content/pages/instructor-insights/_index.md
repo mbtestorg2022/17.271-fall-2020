@@ -32,7 +32,7 @@ Curriculum Information
 
 ### Prerequisites
 
-Prior study providing basic understanding of American political institutions (as would be gained from [_17.20 Introduction to American Politics_](/courses/17-20-introduction-to-american-politics-spring-2013/)) is helpful, though not required.
+Prior study providing basic understanding of American political institutions (as would be gained from [_17.20 Introduction to American Politics_](/courses/17-20-introduction-to-american-politics-spring-2013)) is helpful, though not required.
 
 ### Requirements Satisfied
 
@@ -58,7 +58,7 @@ A wide range of majors
 
 ### Typical Student Background
 
-Some students were interested in working in public policy in the future; others had seen or participated in protests about policing and wanted to learn more about the criminal legal system, or had personal connections to people who had been arrested or incarcerated. A few had previously taken [_21H.319 Race, Crime, and Citizenship in American Law_](/courses/21h-319-race-crime-and-citizenship-in-american-law-fall-2014/).
+Some students were interested in working in public policy in the future; others had seen or participated in protests about policing and wanted to learn more about the criminal legal system, or had personal connections to people who had been arrested or incarcerated. A few had previously taken [_21H.319 Race, Crime, and Citizenship in American Law_](/courses/21h-319-race-crime-and-citizenship-in-american-law-fall-2014).
 
 How Student Time Was Spent
 --------------------------

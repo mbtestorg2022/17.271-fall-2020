@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 9c82cf68-dbd4-207d-2db0-ae874e69e57d
 resourcetype: Image
 title: building.jpg
 uid: 9de00c13-dc7a-2d90-da96-2f633b22bab2
